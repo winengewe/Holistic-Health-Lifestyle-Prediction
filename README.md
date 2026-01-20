@@ -57,7 +57,7 @@ The analysis compared two models to predict the `Overall_Health_Score`:
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
     ```
-3.  Open the Jupyter Notebook `Holistic-Health-Lifestyle-Prediction.ipynb`.
+3.  Open the Jupyter Notebook `Earthquake-Tsunami-Prediction.ipynb`.
 4.  Ensure the dataset is located in the correct path (or update the path in the code) and run the cells.
 
 ---
